@@ -20,8 +20,7 @@
 添加了防止抖动函数和函数节流
 
 [前端资源分享-只为更好的你](https://blog.csdn.net/qq_40126542/article/details/80292310)
-
-[怎么学 JavaScript>?](https://www.qdfuns.com/article/17398/d3f6dd40e2d3ff15b209810dfa98be0b.html)
+
 
 # 学习前端之路的一些资料
 
